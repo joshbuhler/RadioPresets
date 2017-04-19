@@ -20,6 +20,33 @@ The reference file is created using the following steps:
 2. Import the CSV into Excel, for easy editing. Add any notes or comments, and remove any columns as desired.
 3. Export the file as a tab-delimited .txt file.
 4. Convert the tab-delimited file to a Markdown table for printing. For this, I use Jesse Donat’s [CSV to Markdown Table Generator](https://github.com/donatj/CsvToMarkdownTable). A live version that can be used to copy/paste the info is available at [https://donatstudios.com/CsvToMarkdownTable](https://donatstudios.com/CsvToMarkdownTable)
+5. Edit Markdown file, and print using whatever CSS style you like.
+
+…or, you can also just print directly from the Excel file. Whatever. The Excel version is a lot easier, and involves fewer steps.
+
+# General Notes
+The presets are arranged generally the same on both radios at the moment. The FT-8800R has more memory slots, so it has more presets, where the the Baofeng only has 128 memory slots, so it just contains a subset of the items. Generally though, the presets are arranged like so:
+
+## Slots 1-19
+These are a mix of favorite repeaters, like Farnsworth Peak, Lake Mountain, Herriman, and the simplex calling frequencies. The others are frequencies used by the Herriman Amateur Radio Club for various things.
+
+## Slots 20-41
+Intermountain Intertie repeaters
+
+## Slots 45-61
+Sinbad Repeater System
+
+## Slots 65-67
+Dixie Linked System in the St. George area
+
+## Slots 70-79
+Weather station frequencies
+
+## Slots 106-399
+Assorted 2M & 70cm repeaters in Utah & Idaho
+
+## Slots 475-496
+FRS & GMRS frequencies. While my radios aren't type-accepted to transmit here, sometimes it's nice being to just listen in.
 
 
 # License
