@@ -28,6 +28,7 @@ For north-south travel, the primary system is the Intermountain Intertie. It ess
 | 147.300 | -0.6 | 100.0 | Jacob Lake, Fredonia | AZ |
 | 448.875 | -5 | 100.0 | Flagstaff, Mt Elden | AZ |
 
+-----
 
 ## Sinbad Desert System
 
