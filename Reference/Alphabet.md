@@ -1,17 +1,17 @@
 # The Alphabet
 
-| Character | CW | Phonetic | Fauxnetic 😜 |
-|--|--|--|-:|
-| A | · - | Alpha | Aisle |
-| B | - · · · | Bravo | Bdellium |
-| C | - · - · | Charlie | Cue |
-| D | - · · | Delta | Djembe |
-| E | · | Echo | Eye |
-| F | · · - · | Foxtrot | Phonetic |
-| G | - - · | Golf | Gnat |
-| H | · · · · | Hotel | Honor |
-| I | · · | India | Ian |
-| J | · - - - | Juliet | Jalapeño |
+| Character | CW | Phonetic | Fauxnetic 😜 | Character | CW |
+|--|--|--|--|--|-:|
+| A | · - | Alpha | Aisle | 1 | · - - - - |
+| B | - · · · | Bravo | Bdellium | 2 | · · - - - |
+| C | - · - · | Charlie | Cue | 3 | · · · - - |
+| D | - · · | Delta | Djembe | 4 | · · · · - |
+| E | · | Echo | Eye | 5 | · · · · · |
+| F | · · - · | Foxtrot | Phonetic | 6 | - · · · · |
+| G | - - · | Golf | Gnat | 7 | - - · · · |
+| H | · · · · | Hotel | Honor | 8 | - - - · · |
+| I | · · | India | Ian | 9 | - - - - · |
+| J | · - - - | Juliet | Jalapeño | 0 | - - - - - |
 | K | - · - | Kilo | Knight |
 | L | · - · · | Lima | Llama |
 | M | - - | Mike | Mnemonic |
@@ -28,14 +28,3 @@
 | X | - · · - | X-ray | Xylophone |
 | Y | - · - - | Yankee | Yttrium |
 | Z | - - · · | Zulu | Zounds |
-
-| 1 | · - - - - | One |  |
-| 2 | · · - - - | Two |  |
-| 3 | · · · - - | Three |  |
-| 4 | · · · · - | Four |  |
-| 5 | · · · · · | Five |  |
-| 6 | - · · · · | Six |  |
-| 7 | - - · · · | Seven |  |
-| 8 | - - - · · | Eight |  |
-| 9 | - - - - · | Niners |  |
-| 0 | - - - - - | Zero |  |
