@@ -45,6 +45,9 @@ Weather station frequencies
 ## Slots 106-399
 Assorted 2M & 70cm repeaters in Utah & Idaho
 
+## Slots 420-456
+Air traffic frequencies, mostly SLC airport, with Ogden, Hill AFB, and generic frequencies. The stuff that gets high. heh.
+
 ## Slots 475-496
 FRS & GMRS frequencies. While my radios aren't type-accepted to transmit here, sometimes it's nice being to just listen in.
 

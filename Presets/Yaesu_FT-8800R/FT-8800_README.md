@@ -78,4 +78,4 @@ Presets 420-456. Air traffic frequencies, mostly SLC airport, with Ogden, Hill A
 Presets 475-496. FRS / GMRS channels.
 
 ### Bank 10
-NOAA weather radio stations.
+Slots 70-79. NOAA weather radio stations.
