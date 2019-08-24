@@ -1,18 +1,21 @@
 # Yaesu FT-8800R Details
 
-Some basic notes on how I've configured the FT-8800R currently installed in my truck.
+Some notes on how I've configured the FT-8800R currently installed in my truck.
 
-{{TOC}}
+## Radio Sides
+
+This radio has two sides to it - a left and right. While each side can can have up to 500 different memory presets for a total of 1000, I’ve opted to duplicate the sides for simplicity. Should the day come where I hit that 501st preset, maybe then I’ll consider not duplicating the sides.
 
 ## Mic Buttons
 
-The mic for the FT-8800 has four large preset buttons that can be configured. I have these configured to do different things that make operating the radio one-handed much easier. (For things like net control, or operating while driving if needed.)
+The mic for the FT-8800 has four large preset buttons that can be programmed. I have these configured to do different things that make operating the radio one-handed much easier. (For things like net control, or operating while driving if needed.)
 
-| Button | Function |
-| ------ | -------- |
-| 1 | Power output |
-| 2 | Side swap |
-
+| Button | Function | Description |
+| ------ | -------- | ----------- |
+| 1 | `LOW` | Cycles through the different levels of power output.
+| 2 | `BAND` | Toggles the main band between the left and right side of the radio. |
+| 3 | `SCAN` | Begins scanning on the current main band. |
+| 4 | `PRI` | Activates priority scanning mode. |
 
 ## Hyper Memory Setup
 
