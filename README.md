@@ -1,7 +1,7 @@
 # RadioPresets
 Just a backup of the presets I use on my amateur radio gear. Mostly for my own use, but if anyone wants to use it as well, go nuts.
 
-I have two radios at the moment, a Yaesu FT-8800R, and a Baofeng UV-5R. For simplicity, I have the same basic config on both radios, with appropriate changes based on what features the radio supports.
+While the number of radios I have may vary, for simplicity, I have the same basic config on each radio, with appropriate changes based on what features the radio support. The setup also changes based on what that radio's primary purpose is. Currently, my main radio is a Yaesu FT-8800R, which is installed in my truck. This one is where you'll find the most detail about my setup, as it's the one I use every day, so it ends up getting the most tweaking and customization.
 
 These presets are based on me living in the Salt Lake Valley, and most of my travel being around Utah. So, if you’re outside Utah, this likely isn’t going to be of much use to you.
 
@@ -12,6 +12,7 @@ There is a folder for each radio’s preset info. The files included are:
 * A CSV copy of the preset info, exported from the CHIRP image.
 * A reference file of some sort that I use to print out a paper copy of the presets.
 * The formatted markdown file used for printing.
+* Anything else that seems relevant for that radio.
 
 ## Preset Reference Creation
 The reference file is created using the following steps:
