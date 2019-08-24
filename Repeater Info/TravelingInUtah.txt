@@ -1,0 +1,123 @@
+# Traveling In Utah
+
+> Compiled using information from multiple sources. References at the end.
+
+Utah is home to a few different repeater systems that should provide coverage over most of the state.
+
+## Intermountain Intertie
+
+For north-south travel, the primary system is the Intermountain Intertie. It essentially covers everything west of the Wasatch front, from St George to Tremonton. It will also travel with you to the northwest up to Boise, Idaho and to the northeast up to Rock Springs, Wyoming. It also can be linked to a similar system in Montana, but the connection is not full-time, and has not been listed here.
+
+##### Intermountain Intertie repeaters (North-South)
+| Frequency | Offset | Tone | Location | State |
+|--|--|--|--|-:|
+| 147.120 | +0.6 | 123.0 | Montpelier, M-Hill | ID |
+| 146.850 | -0.6 | 100.0 | Howe, Jumpoff Peak | ID	 |
+| 145.230 | -0.6 | 100.0 | Island Park, Sawtell Peak | ID |
+| 145.270 | -0.6 | 100.0 | Burley, Mt Harrison | ID |
+| 147.450 | Simplex | --- | Malad Pass, Malad | ID |
+| 449.400 | -5.0| 100.0 | Salt Lake City, Ensign Peak | UT |
+| 147.180 | +0.6 | 100.0 | Snowbird, Hidden Peak | UT |
+| 147.120 | +0.6 | 100.0 | Salt Lake City, Farnsworth Peak | UT |
+| 145.270 | -0.6 | 100.0 | Brighton, Scotts Peak | UT |
+| 145.270 | -0.6 | 103.5 | Levan, Levan Peak | UT |
+| 146.940 | -0.6 | 100.0 | Milford, Frisco Peak | UT |
+| 146.840 | -0.6 | 100.0 | Richfield, Monroe Peak | UT |
+| 146.820 | -0.6 | 100.0 | St George, Utah Hill | UT |
+| 448.600 | -5 | 100.0 | Page, Navajo Mountain | UT |
+| 147.300 | -0.6 | 100.0 | Jacob Lake, Fredonia | AZ |
+| 448.875 | -5 | 100.0 | Flagstaff, Mt Elden | AZ |
+
+-----
+
+## Sinbad Desert System
+
+The Sinbad Desert Amateur Radio Club repeater system covers most of Eastern Utah and parts of Salt Lake and Utah Counties.
+
+##### Sinbad Desert ARC repeaters
+| Frequency | Offset | Tone | Location | State |
+|--|--|--|--|-:|
+| 147.040 | +0.6 | 136.5 | Vernal, Grizzly Ridge | UT |
+| 147.060 | +0.6 | 88.5 | Castle Dale, Horn Mountain | UT |
+| 147.080 | +0.6 | 136.5 | Hanksville, Ellen Peak | UT |
+| 147.080 | +0.6 | 88.5 | Scofield, Boardinghouse Ridge | UT |
+| 147.140 | +0.6 | 88.5 | Castle Dale, Cedar Mountain | UT |
+
+
+## Skyline Repeater System
+
+The Skyline linked system covers portions of central Utah.
+
+##### Skyline Repeater System
+| Frequency | Offset | Tone | Location | State |
+|--|--|--|--|-:|
+| 146.660 | -0.6 | 100.0 | Skyline - Horseshoe, East of Ephraim | UT |
+| 147.100 | +0.6 | 100.0 | Beesting - Phavant Ridge, East of Holden | UT |
+| 448.275 | -5.0 | 107.2 | Barton Peak - West of Manti | UT |
+| 146.720 | -0.6 | 100.0 | Barton Peak - West of Manti | UT |
+| 146.860 | -0.6 | 100.0 | Monroe Pk - East of Monroe | UT |
+| 146.720 | -0.6 | 100.0 | Spencers Bench - East of Glendale | UT |
+
+### I-84/I-15 from Idaho to I-80 (Salt Lake City)
+Traveling from western or central Idaho on eastbound I-84 towards Salt Lake City is problematic when first crossing the Idaho-Utah border due to terrain. When entering the state from Idaho on I-84, you should have already been on the Intermountain Intertie's Burley, Mt Harrison repeater on 147.270. The far southern edge of this repeater is about milepost 7. There are no Idaho or Utah repeaters that cover the next 27 miles, but tune to the Salt Lake City's Farnsworth Peak repeater on 147.120. This repeater is also on the Intermountain Intertie and will cover the entire Wasatch Front and I-80 west to the Nevada state line.
+
+##### Summary
+
+- Mt Harrison 147.270+ (100.0) from Idaho border to milepost 7.
+- DEAD ZONE from milepost 7 to Milepost 34.
+- Farnsworth Peak 147.120+ (100.0) I-15 milepost 34 into the Salt Lake and Utah Valleys.
+
+### I-15 from I-80 (Salt Lake City) to Nevada
+
+Begin this segment on Farnsworth Peak (147.120). On I-15 from Salt Lake City, just south of Payson, you will want to switch to the Levan Peak repeater on 145.270. This repeater will keep you company until you come within the coverage area of the Frisco Peak repeater (146.960) near Holden, Utah. Stay on this repeater down past Cedar City. When the repeater gets rough, you can switch to the Utah Hill repeater on 146.820. This repeater will accompany you in to Nevada.
+
+##### Summary
+
+- Farnsworth Peak - Salt Lake City 147.120+ (100.0) I-15 mile post 35 into the Salt Lake and Utah Valleys.
+- Levan Peak 145.270+ (103.5) Payson to Holden.
+- Frisco Peak 146.960- (100.0) Holden to Cedar City.
+- Utah Hill 146.820- (100.0) Cedar City to Nevada.
+
+### I-80 from Nevada to Salt Lake City
+
+When entering into Utah, use the Farnsworth Peak 147.120+ (PL 100.0) repeater located on the west side of Salt Lake City. This repeater will provide coverage for the entire route. This repeater covers the entire Wasatch Front so you can use it for quite awhile if headed north or south on I-15. However, if continuing eastbound on I-80, you will lose it when crossing over the Wasatch Mountains.
+
+### I-80 from Salt Lake City to Wyoming
+
+Once you cross the Wasatch Mountains, tune to the Scott's Peak repeater on 147.020+ (100.0). This repeater covers the whole of northeast Utah and into southwest Wyoming.
+
+### US-6/US-191 from I-15 to I-70
+
+The Intermountain Intertie is not an option once you get east of I-15 at Spanish Fork as there are no Intermountain Intertie repeaters out this way. The best repeaters to use are the Sinbad Desert Amateur Radio Club repeaters as they are a linked system which provides more opportunities to make a contact or get help. 
+
+You can actually access a Sinbad Desert System west of the Wasatch front, so you need to decide if you want to remain on the Intermountain Intertie or switch to the Sinbad Desert System. If coming from the north towards US-6, use Lake Mountain (147.080). If coming from the south, you can use Ford Ridge (145.31).These repeaters have wide coverage of the entire Wasatch front.
+
+When you reach the US-191 junction north of Price, you should be able to work the Cedar Mountain repeater on 147.140. This repeater should get you all the way down to US-70 where you will switch to the Great Mesa Amateur Radio Club's Baxter Pass repeater on 447.000. This repeater is in a really good location to provide coverage as soon as the Horn Mountain repeater drops off and vice versa.
+
+##### Summary
+- Lake Mountain, Draper 147.080+ (77.0) on the Wasatch Front and through Spanish Fork (SB I-15 to EB US-6)
+
+**OR**
+
+- Ford Ridge 145.310- (88.5) from Yuba State Park to the Price Valley (NB I-15 to EB US-6).
+
+**THEN**
+
+- Cedar Mountain 147.140+ (88.5) on US-191 from US-6 cut-off (north of Price) to I-70.
+- Baxter Pass 447.000- (107.2) from Colorado border until US-191 junction.
+
+### US-89 North from Arizona
+
+You should already be tuned to one of two Navajo Mountain repeaters on 146.960 or 448.600. The 146.960 repeater would be preferred due to the better propagation qualities of 2-meters, but by local option the repeater may not be linked to the Intermountain Intertie. Use the 70-cm repeater as an alternate as it is always connected. In any event, these repeaters will go away once you get in to the mountains headed west. Your next option is to tune to the St George repeater on 146.82. You should be able to work this repeater well before reaching Kanab, Utah.
+
+##### Summary
+- Page (AZ) - Navajo Mountain 146.960- ()
+- Utah Hill, St George 146.820- (100.0)
+
+
+## References
+
+- [RepeaterBook - Traveling Utah](https://www.repeaterbook.com/index.php/2016-04-07-21-08-49/10-travel/14-traveling-utah)
+- [Utah VHF Society - The Intermountain Intertie](http://www.utahvhfs.org/snowlink.html)
+- [Sinbad Desert Amateur Radio Club](http://162.250.21.7/repeaters.html)
+- [Skyline Radio Club - Repeaters](http://www.skylineradioclub.com/repeaters.html)
