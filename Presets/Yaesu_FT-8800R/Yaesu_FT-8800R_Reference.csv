@@ -1,0 +1,406 @@
+Preset,Name,Frequency,Duplex,Offset,Tone Freq,System,Comment
+1,2M C,146.52,,,,,2 M calling freq
+2,GTAA,145.63,,,,,GTAA simplex. AKA TERT1
+3,TERT2,147.56,,,,,TERT 2 simplex
+4,OFFRD,146.46,,,,,Trail rides & Herriman simplex
+5,N7HRC,449.25,-,5,118.8,,Herriman High School
+6,FARNS,146.62,-,0.6,,,Farnsworth Peak
+7,LAKEMT,146.76,,,,,"Lake Mountain, Utah County"
+8,AF CYN,448.225,-,5,100,,American Fork Canyon
+9,70CM C,446,,,,,70 cm calling freq
+10,BUTTER,145.45,-,0.6,100,,Butterfield Peak
+11,,,,,,,
+12,SMPX02,146.4,,0,88.5,,
+13,SMPX04,446.5,,5,88.5,,
+14,SMPX05,447.8,,5,88.5,,
+15,ARES01,438.15,,5,88.5,,
+16,ARES02,438.175,,5,88.5,,
+17,CURRY,447.9,-,5,114.8,,Curry Peak
+18,ARESSX,147.54,,0,,,
+20,FARNS,147.12,+,0.6,100,Intertie,"Farnsworth Peak - Coverage into the greater Wasatch Front area (i.e. Salt Lake, Provo, Ogden) as well as to the west along Interstate 80 into Wendover, Nevada."
+21,HIDNPK,147.18,+,0.6,100,Intertie,"Hidden Peak - Coverage into Park City, Heber, Duchesne, Coalville, parts of northeastern Utah, southern slopes of the Uinta mountains, and parts of southwest Wyoming.  Note:  This repeater has spotty coverage in populated areas of the Salt Lake and Utah valleys."
+22,BEARLK,147.02,+,0.6,100,Intertie,"Bear Lake - Covers Bear Lake and its communities, and various portions of northeastern Utah, southeastern Idaho, and southwest Wyoming."
+24,EVNSTN,146.86,-,0.6,100,Intertie,"Evanston - Covers southwest Wyoming, the northern slopes of the Uinta mountains, parts of northeastern Utah."
+25,ASPEN,146.67,-,0.6,100,Intertie,Aspen Mountain - Covers the Green River/Rock Springs area and I-80 as far west as Little America and is linked to the system via the Medicine Butte repeater.
+26,PISGAH,449.65,-,5,100,Intertie,"Mt. Pisgah - Covers most of Cache Valley, although somewhat spotty on the west side of the valley around Wellsville."
+27,SCOTTS,145.27,-,0.6,100,Intertie,"Scott's Hill - Coverage is nearly identical to that of the Hidden Peak repeater, except that it has somewhat better coverage in Park City, Deer Valley, and in the Evanston/Kemmerer, Wyoming areas."
+28,LEVAN,145.27,-,0.6,103.5,Intertie,"Levan Peak - The primary coverage area of this repeater is along the Interstate 15 corridor from Santaquin to south of Fillmore.  It covers large portions Juab and Sanpete counties plus portions of Utah, Tooele, and Millard counties."
+29,MONROE,146.84,-,0.6,100,Intertie,Monroe Peak - This covers the I-70 and US-89 corridors around Richfield from Santaquin in the north to the south to the Panguich area along US-89 and Parawan on I-15 and to the east into the Capitol Reef National Park area.
+30,FRISCO,146.94,-,0.6,100,Intertie,"Frisco Peak - This repeater covers Delta, Cedar City, and other parts of southwestern Utah and eastern Nevada."
+31,BLOHRD,146.8,-,0.6,100,Intertie,"Blowhard Peak - (Near Cedar Breaks National Monument) - Covers parts of southwestern Utah such as  Cedar City, Kanab, some of eastern and southeastern Nevada, and portions of northwestern Arizona."
+32,STGRG,146.82,-,0.6,100,Intertie,"St. George - Covers St. George, parts of southwestern Utah, southeastern Nevada, and northwestern Arizona."
+33,PAGE2M,146.96,-,0.6,100,Intertie,Navajo Mountain - Covers most of Lake Powell and large areas of southern Utah as well as Northern Arizona.
+34,PAGE70,448.6,-,5,100,Intertie,Navajo Mountain - Covers most of Lake Powell and large areas of southern Utah as well as Northern Arizona.
+35,VEGAS,146.88,-,0.6,100,Intertie,"Las Vegas - Covers Las Vegas, southeastern Nevada.  Note that this repeater may not be linked to the Intertie at all times as this capability is under control of the local operators."
+36,JAKBLK,147.3,+,0.6,100,Intertie,Jacob Lake - Covers portions of southern Utah and northwestern Arizona.
+37,MTLDON,448.875,-,5,100,Intertie,Mt. Eldon - usually linked to the intertie via the Navajo Mountain repeater
+38,JMPOFF,146.85,-,0.6,100,Intertie,Jumpoff Peak - Serves Idaho Falls
+39,MALAD,147.45,,,,Intertie,"Malad Pass - west of Malad, Idaho"
+40,HARRSN,145.27,-,0.6,100,Intertie,"Mt. Harrison - Southern Idaho, Note that this repeater shares the same frequency as the Scott's Hill and Levan Peak repeaters - also linked via the intertie:  Please be aware of this when in an area where overlap between these systems is possible!"
+41,SAWTEL,145.23,-,0.6,100,Intertie,Sawtelle Peak - near West Yellowstone
+45,LAKMTN,147.08,+,0.6,77,Sinbad,"Covers most of the Wasatch Front from Payson, UT towards Kaysville and Layton, UT."
+46,MOAB,146.9,-,0.6,88.5,Sinbad,"Covers the town of Moab, UT."
+47,FLATOP,145.49,-,0.6,136.5,Sinbad,"Covers the Duchesne, UT area."
+48,GRZRDG,147.04,+,0.6,136.5,Sinbad,"Covers the Uinta Basin, including Vernal, Roosevelt, and Duchesne, UT"
+49,HENRY,147.08,+,0.6,136.5,Sinbad,"Covers areas around the Henry Mountain range is Southeastern Utah including Capitol Reef National Park, Hanksville, Hite, Boulder, Escalante, and Bullfrog."
+50,ABAJO,146.61,-,0.6,88.5,Sinbad,"Covers Southeastern Utah, Southwest Colorado, Northwest New Mexico, and extreme Northeastern Arizona, including Monticello, UT, Blanding, UT, and much of Canyonlands National Park."
+51,BORDHS,147.08,+,0.6,88.5,Sinbad,"Covers the town of Scofield, UT and the area known as Soldier Summit along US Highway 6. It also covers Price, UT, east towards Sunnyside, UT, and south along Huntington Canyon. "
+52,FORD,145.31,-,0.6,88.5,Sinbad,"Covers the town of Scofield, UT and the area known as Soldier Summit along US Highway 6. It also covers Price, UT, east towards Sunnyside, UT, and south to Huntington, UT."
+53,BRUIN,147.32,+,0.6,88.5,Sinbad,"Covers east towards Price, UT and south along State Route 10 to Huntington, UT and along US Highway 6 & 191 towards Green River, UT. It also covers into the Uinta Basin from Duchesne, UT towards Roosevelt, UT."
+54,HORNMT,147.06,+,0.6,88.5,Sinbad,"Covers most of western Emery County including the towns of Castle Dale, Orangeville, Huntington, Cleveland, Ferron, and further east into the San Rafael desert. It also covers the towns of Sunnyside and East Carbon, UT."
+55,CDRMTN,147.14,+,0.6,88.5,Sinbad,"Covers south towards Interstate 70, east to Green River, UT, north towards Price, UT, and west to Castle Dale, UT. Some have even used this repeater from Moab, UT will a gain antenna and power."
+56,WOODHL,147.2,+,0.6,88.5,Sinbad,"Covers Price, UT and surrounding areas"
+57,BARTON,448.275,-,5,107.2,Sinbad,West of Manti - covers from Fairview to Richfield
+58,EPHRAM,146.66,-,0.6,100,Sinbad,Located at Horse Shoe site - Coverage from Salina to Provo
+59,BSTING,147.1,+,0.6,100,Sinbad,Near Mt Catherine - Covers Richfield to Orem
+60,MONROE,146.86,-,0.6,100,Sinbad,Located at South Monroe Peak
+61,BALD,146.76,-,0.6,88.5,Sinbad,"Covers the town of Moab, UT and surrounding areas."
+65,UTAHHL,145.49,-,0.6,100,Dixie,"Utah Hill  (covering most areas of the southern county, northern Clark County, NV)"
+66,WEBBHL,146.64,-,0.6,100,Dixie,"Webb Hill  (coverage of  metropolitan St. George, Washington)"
+67,TOQUER,145.45,-,0.6,100,Dixie,"Toquerville  (coverage of northern Washington County, Hurrican/LaVerkin - eastern Washington Ccounty areas)"
+70,WX1PA7,162.55,,,,Weather,
+71,WX2PA1,162.4,,,,Weather,
+72,WX3PA4,162.475,,,,Weather,
+73,WX4PA2,162.425,,,,Weather,
+74,WX5PA3,162.45,,,,Weather,
+75,WX6PA5,162.5,,,,Weather,
+76,WX7PA6,162.525,,,,Weather,
+77,WX8,161.65,,,,Weather,
+78,WX9,161.775,,,,Weather,
+79,WX10,163.275,,,,Weather,
+106,W7IHC,145.19,-,0.6,123,,"Salt Lake City, Intermountain Ridge"
+107,W7DBA,145.21,-,0.6,123,,Huntsville
+108,AA7JR,145.21,-,,,,"Salt Lake City, Capitol"
+109,NZ6Z,145.23,-,0.6,100,,Park City
+110,K7UCS,145.23,-,0.6,131.8,,"Provo, Lake Mountain"
+111,KD7FDH,145.25,-,0.6,123,,"Ogden, Weber State University"
+112,KR7D,145.25,-,,,,"Pleasant Grove, Sundance"
+113,K7JL,145.27,-,0.6,100,,"Brighton, Scotts Peak"
+114,K7JL,145.27,-,0.6,103.5,,"Levan, Levan Peak"
+115,K7UB,145.29,-,0.6,123,,Brigham City
+116,WB7REL,145.29,-,0.6,131.8,,"Starling, Sterling"
+117,WA7KMF,145.31,-,0.6,103.5,,Red Spur
+118,K7SDC,145.31,-,0.6,88.5,,"Scofield, Ford Ridge"
+119,N7BYU,145.33,-,0.6,100,,"Provo, BYU"
+120,W6DZL,145.35,-,0.6,123,,Bryce Canyon
+121,NM7P,145.35,-,0.6,100,,Murray
+122,K7HK,145.35,-,,,,"Tooele, Black Mountain"
+123,W7EO,145.39,-,0.6,100,,"Vernon, Black Crook Peak"
+124,WB7TSQ,145.41,-,0.6,123,,"Ogden,  foothills"
+125,KE7GHK,145.41,-,0.6,88.5,,"Salt Lake, Carrigan Ridge"
+126,K7UB,145.43,-,0.6,123,,"Howell, Blue Springs Hill"
+127,W7CEU,145.43,-,0.6,88.5,,"Price,  Wood Hill"
+128,W7DRC,145.45,-,0.6,100,,"Toquerville, Toquerville Hill"
+129,WA7UAH,145.45,-,0.6,100,,"West Jordan, Butterfield Peak"
+130,WV7H,145.47,-,,,,Cedar City
+131,KC7SUM,145.47,-,0.6,123,,"Ogden, Powder Mountain"
+132,N7BSA,145.47,-,0.6,100,,"Orem, QTH AC7DM"
+133,W7BYU,145.49,-,0.6,136.5,,"Myton, Flat Top"
+134,K7HEN,145.49,-,0.6,123,,"Ogden,  Promentory Pt"
+135,W7DRC,145.49,-,0.6,100,,"St George, Utah Hill"
+136,K7HEN,145.49,-,0.6,136.5,,"Vernal, Grizzly Ridge"
+137,K7SDC,146.61,-,0.6,88.5,,"Monticello, Abajo Peak"
+138,W7SP,146.62,-,,,,"Salt Lake City, Farnsworth Peak"
+139,WA7MXZ,146.64,-,,,,"Logan, Cache CSO"
+140,WA7HSW,146.64,-,0.6,100,,"Monroe, Monroe Peak"
+141,W7DRC,146.64,-,0.6,100,,"St George, Webb Hill"
+142,W7DHH,146.66,-,0.6,100,,"Ephraim, Horseshoe"
+143,N7JSQ,146.68,-,0.6,123,,"Huntsville, Herd Mountain"
+144,KC7IIB,146.7,-,0.6,100,,"Salt Lake City, Ensign Peak"
+145,KA7STK,146.7,-,,,,St George
+146,WB7REL,146.72,-,0.6,100,,"East Salina, Salina Canyon"
+147,WB7REL,146.72,-,0.6,100,,"Glendale, Spencer Bench"
+148,WB7REL,146.72,-,0.6,100,,"Indianola, Indianola Peak"
+149,AC7O,146.72,-,0.6,103.5,,"Logan, Mt Logan"
+150,WB7CBS,146.74,-,0.6,100,,Altamont
+151,KD7NX,146.74,-,0.6,114.8,,"Salt Lake City,  U of U Hospital"
+152,NR7K,146.74,-,0.6,100,,"St George, Webb Hill"
+153,K7JH,146.76,-,0.6,123,,"Cedar City, Iron Mountain"
+154,K7QEQ,146.76,-,0.6,88.5,,"Moab, Bald Mesa"
+155,W7SP,146.76,-,,,,"Provo, Lake Mountain"
+156,K7UVA,146.78,-,0.6,100,,"Orem, Lake Mountain"
+157,WV7H,146.8,-,0.6,100,,"Cedar City, Blowhard Mountain"
+158,N6EZO,146.8,-,0.6,100,,Mapleton
+159,W7SU,146.82,-,0.6,123,,"Ogden, Little Mountain"
+160,NR7K,146.82,-,0.6,100,,"St George, Utah Hill"
+161,WA7VHF,146.84,-,0.6,100,,"Richfield, Monroe Peak"
+162,N7PCE,146.84,-,,,,"Salt Lake City, Jordan Vly Hospital"
+163,WB7REL,146.86,-,0.6,100,,"Monroe, Monroe Peak"
+164,W7NRC,146.88,-,0.6,123,,"Kanab, TV Site"
+165,KD0J,146.88,-,0.6,88.5,,"Salt Lake City, SLCC"
+166,K7QEQ,146.9,-,0.6,88.5,,Moab
+167,W7SU,146.9,-,0.6,123,,"Ogden, Mt Ogden"
+168,NR7K,146.91,-,0.6,100,,"St George, Seegmiller Peak"
+169,N7TOP,146.92,-,0.6,123,,"Corinne, Promontory Point"
+170,W7BYU,146.92,-,0.6,136.5,,Roosevelt
+171,WR7AAA,146.94,-,0.6,100,,"Milford, Frisco Peak"
+172,WA7VHF,146.94,-,0.6,88.5,,"Salt Lake City, Farnsworth Peak"
+173,K7MLA,146.96,-,0.6,100,,"Layton,  Francis Peak"
+174,W7WAC,146.96,-,0.6,100,,"Page (AZ), Navajo Mountain"
+175,N7KM,146.98,-,0.6,100,,"Cedar City, Iron Mountain"
+176,W7EO,146.98,-,,,,"Tooele, Black Mountain"
+177,WA7UAH,147.02,+,0.6,100,,"Goshen, West Mountain"
+178,K7OGM,147.02,+,0.6,100,,"Laketown, Bear Lake"
+179,K7DAV,147.04,+,0.6,123,,"Antelope Island, Frary Peak"
+180,W7BAR,147.04,+,0.6,136.5,,"Vernal, Grizzly Ridge"
+181,K7SDC,147.06,+,0.6,88.5,,"Castle Dale, Horn Mountain"
+182,N7AKK,147.06,+,,,,"Cedar City, Hospital"
+183,W7DES,147.06,+,,,,"Salt Lake City, Capitol"
+184,WX7Y,147.08,+,0.6,77,,"Draper, Lake Mountain"
+185,K7SDC,147.08,+,0.6,136.5,,"Hanksville, Ellen Peak"
+186,K7SDC,147.08,+,0.6,88.5,,"Scofield, Boardinghouse Ridge"
+187,N7GGN,147.1,+,0.6,100,,"Holden, Beesting Peak"
+188,KB7ZCL,147.1,+,0.6,123,,"Morgan, TV Site."
+189,W7BAR,147.1,+,0.6,136.5,,"Vernal, Blue Mountain"
+190,K7JL,147.12,+,0.6,100,,"Salt Lake City, Farnsworth Peak"
+191,K7SDC,147.14,+,0.6,88.5,,"Castle Dale, Cedar Mountain"
+192,K7MLA,147.14,+,0.6,127.3,,"West Jordan, Butterfield Peak"
+193,K7HEN,147.16,+,0.6,136.5,,"Heber City, Strawberry Peak"
+194,N7NKK,147.16,+,0.6,100,,"Panguitch, Mount Dutton"
+195,WA7SNS,147.16,+,0.6,127.3,,"Salt Lake City, Ensign Peak"
+196,N7SGV,147.18,+,,,,Duck Creek Village
+197,K7JL,147.18,+,0.6,100,,"Snowbird, Hidden Peak"
+198,AC7O,147.2,+,0.6,103.5,,"Logan, WA7KMF QTH"
+199,N7ZOI,147.2,+,0.6,88.5,,"Midway, Wilson Peak"
+200,K7GX,147.2,+,0.6,88.5,,"Price, Wood Hill"
+201,W7EO,147.2,+,0.6,100,,"Wendover, Wendover Peak"
+202,WA7YZR,147.22,+,,,,"Provo, Edgemont SC"
+203,K7UB,147.22,+,0.6,123,,Riverside
+204,K7HEN,147.24,+,0.6,136.5,,"Coalville, Lewis Peak"
+205,N7RRZ,147.24,+,0.6,79.7,,Logan
+206,N7PQD,147.26,+,,,,Duchense
+207,N7WPF,147.26,+,,,,Hinckley
+208,AC7O,147.26,+,0.6,103.5,,"Ogden, Promontory Pt"
+209,K7SG,147.26,+,,,,St George
+210,AD7ZW,147.28,+,0.6,107.2,,Altamont
+211,K7UCS,147.28,+,0.6,141.3,,"Provo, Lake Mountain"
+212,W7EO,147.3,+,0.6,100,,"Tooele, South Mountain"
+213,KA7FAP,147.32,+,0.6,88.5,,Logan
+214,K7SDC,147.32,+,0.6,88.5,,"Sunnyside, Bruin Point"
+215,K7UCS,147.34,+,0.6,100,,"Goshen, West Mountain"
+216,KG7DSO,147.34,+,0.6,136.5,,"Vernal, Tabby Mountain"
+217,WA7GIE,147.36,+,0.6,100,,"Coalville, Lewis Peak"
+218,WI7M,147.36,+,,,,Kanab
+219,KB7WQD,147.38,+,0.6,203.5,,"Delta, Notch Peak"
+220,WB7TSQ,147.38,+,,,,Ogden
+221,WA7GIE,147.38,+,0.6,100,,"Roosevelt, Mirror Lake"
+222,WA7GIE,433.6,-,5,100,,"Salt Lake City,  Nelson Peak"
+223,KE7QGT,447,-,5,88.5,,Draper
+225,NV7V,447,+,,,,Payson
+226,W0HU,447.025,-,5,100,,Taylorsville
+227,AH2S,447.05,-,5,114.8,,Layton
+230,N7FQ,447.075,-,5,131.8,,Salem
+231,KG7EGM,447.1,-,5,100,,"Draper, Fire Station"
+232,K7QEQ,447.1,-,5,107.2,,"Monticello, Abajo Peak"
+233,K7YI,447.125,-,5,100,,"Castle Dale, Cedar Mountain"
+234,K7UCA,447.125,-,5,100,,"Payson, Mountain View Hospital"
+236,KR7K,447.15,-,5,114.8,,Clearfield
+237,W7SAR,447.175,-,,,,Salt Lake City
+238,K7DAV,447.2,-,5,127.3,,"Antelope Island, Frary Peak"
+239,KE7LMG,447.25,-,5,100,,"Murray, Intermountain Medical Center"
+240,K7MRS,447.25,-,5,100,,Salt Lake City
+241,K7UCA,447.275,-,5,100,,"Orem,  Timpanogos Hospital"
+242,WB7RPF,447.3,-,5,100,,Woodland Hills
+243,N7SGV,447.325,-,,,,Duck Creek Village
+244,N7KYY,447.325,-,5,114.8,,Springville
+245,N7CRG,447.35,-,,,,Clearfield
+246,N7RVS,447.35,-,5,88.5,,"Gunnison, N7RVS QTH"
+247,K7QEQ,447.4,-,,,,"Monticello, Abajo Peak"
+248,K7DSN,447.4,-,5,100,,"Spanish Fork,  Teat Mountain"
+249,KD7RTO,447.425,+,5,192.8,,"Bountiful,  QTH"
+250,N7EVC,447.425,-,,,,Provo
+251,W7DHH,447.45,-,5,114.8,,"Monroe, Monroe Peak"
+252,WD7N,447.475,-,5,186.2,,Springville
+253,NZ6Z,447.5,-,,,,Park City
+254,K2NWS,447.525,-,5,107.2,,"Kearns,  Bacchus Hill"
+255,WA7GTU,447.575,+,,,,Cedar City
+256,K7LNP,447.575,-,5,114.8,,West Jordan
+257,KJ7YE,447.6,-,,,,Eden
+258,KD7RBR,447.6,-,5,162.2,,"Orem, Point of the Mountain"
+259,K7YI,447.625,-,5,100,,"Castle Dale, Horn Mountain"
+260,KF7RCZ,447.675,-,5,100,,Saratogo Springs
+261,WX7Y,447.7,-,5,123,,"Castle Dale, Horn Mountain"
+262,KF7YXL,447.7,-,5,100,,"South Salt Lake City, Fire Station 43"
+263,KX7VC,447.725,-,5,167.9,,"Highland, KX7VC QTH"
+264,WD7P,447.75,-,5,100,,West Jordan
+265,N7TOP,447.775,-,5,123,,"Ogden,  Powder Mountain"
+266,WB7REL,447.85,-,5,131.8,,Sterling
+267,KC7KRY,447.875,-,,,,"Eureka,  Eureka Peak"
+268,KA7EGC,447.875,-,5,100,,"Provo, Lake Mountain"
+277,W7DES,448,-,5,100,,"Salt Lake City,  Capitol"
+278,W7DBA,448.025,-,5,123,,Huntsville
+279,KB7M,448.025,-,5,100,,Payson
+280,K7CSW,448.05,-,5,100,,"Salt Lake City, SLC"
+284,N7DZP,448.1,-,,,,Cedar City
+285,KD7NX,448.1,-,5,114.8,,"Salt Lake City,  U of U Hospital"
+286,N7HIW,448.125,-,5,100,,Murray
+287,KI7DX,448.15,-,5,127.3,,"Salt Lake City, Farnsworth Peak"
+288,KD7IMS,448.175,-,5,203.5,,"Salt Lake City,  Ensign Peak"
+289,KB7M,448.2,-,5,100,,"Orem, Lake Mountain"
+290,KC7MVI,448.225,-,5,146.2,,"Eureka,  Eureka Peak"
+291,N6QWU,448.25,-,5,100,,"Payson, West Mountain"
+292,KD7YE,448.275,-,5,107.2,,"Manti, Barton Peak"
+293,WB7TSQ,448.275,-,5,107.2,,Ogden
+294,K7UB,448.3,-,5,123,,"Howell, Blue Springs Hill"
+295,W7CEU,448.3,-,5,88.5,,"Price,  Wood Hill"
+296,K7GX,448.3,-,,,,"Price, Wood Hill"
+297,K7UCS,448.325,-,5,103.5,,"Provo, Lake Mountain"
+298,KC7OXI,448.35,-,,,,"Draper,  South Mountain"
+299,W7ROY,448.375,-,5,100,,Sandy
+300,WA7GTU,448.4,-,5,100,,Cedar City
+301,W7IHC,448.4,-,,,,"Salt Lake City, Intermountain Ridge"
+302,WD7SL,448.425,-,5,100,,"Salt Lake City, LDS HQ"
+303,K7OGM,448.45,-,5,131.8,,"Laketown, Bear Lake"
+304,KC7IIB,448.45,-,5,100,,"Salt Lake City, Ensign Peak"
+305,KB7HAF,448.475,-,,,,"Park City,  Murdock Peak"
+306,K7WS,448.5,-,,,,"Hurricane,  Kolob Peak"
+307,K7XRD,448.525,-,5,100,,"Salt Lake City, Ensign Peak"
+308,K7SDC,448.55,-,5,88.5,,"Castle Dale, Cedar Mountain"
+309,W7IHC,448.55,-,5,100,,"Salt Lake City,  IHC"
+310,W7SU,448.575,-,5,100,,"Ogden, Little Mountain"
+311,W7SU,448.6,-,5,123,,"Ogden, Mt Ogden"
+312,WA7VHF,448.6,-,5,100,,"Page, Navajo Mountain"
+313,WA7GIE,448.625,-,,,,"Riverton, Flat Top"
+314,KB6BOB,448.65,-,,,,"Cedar City, Blowhard Mountain"
+315,WA7GIE,448.65,-,,,,"Coalville,  Lewis Peak"
+316,K7JL,448.675,-,,,,"Milford, Frisco Peak"
+317,N7IMF,448.7,-,5,114.8,,"Lehi, Lake Mountain"
+319,WB6TNP,448.725,-,,,,"St George, Scrub Peak"
+320,NA7DB,448.75,-,5,100,,"Page (az), Navajo Mountain"
+321,N7TOP,448.775,-,5,123,,West Haven
+322,KA7SLC,448.8,-,5,88.5,,Bountiful
+323,K7JH,448.8,-,5,100,,"Cedar City, Iron Mountain"
+324,K0NOD,448.825,-,5,123,,"Clearfield,  city office"
+325,W7YDO,448.85,-,,,,"Magna,  Kessler Peak"
+326,KG7QWU,448.875,-,,,,Lehi
+327,WB7TSQ,448.9,-,,,,"Coalville,  Lewis Peak"
+328,N7PKI,448.925,-,5,100,,Mendon
+329,WA7FFM,448.95,-,,,,"Goshen,  West Mountain"
+330,K7OGM,448.975,-,,,,"Laketown, Bear Lake"
+331,WA7GIE,448.975,-,,,,"Vernon, Black Crook Peak"
+332,WA7GIE,449,-,,,,"Salt Lake City, Nelson Peak"
+333,K7SDC,449.05,-,5,88.5,,"Sunnyside, Bruin Point"
+334,KC7NAT,449.075,-,5,123,,Ogden
+335,N7BYU,449.075,-,5,167.9,,"Provo, BYU"
+336,W7RSS,449.075,-,5,123,,Riverdale
+337,K7QEQ,449.1,-,5,107.2,,"Moab, Bald Mesa"
+338,K7JL,449.15,-,5,100,,"Salt Lake City, Farnsworth Peak"
+339,KA7EGC,449.175,-,5,131.8,,"American Fork, Utah Lake"
+340,K7MLA,449.225,-,5,100,,"Tooele, Black Mountain"
+341,WD7N,449.25,-,5,110.9,,Eagle Mountain
+342,N7HRC,449.25,-,5,118.8,,"Herriman, High School"
+343,AI7J,449.25,-,5,100,,Layton
+344,AC7II,449.25,-,5,103.5,,Logan
+345,WB7REL,449.25,-,5,131.8,,"Sterling, Salina Canyon"
+346,K5JCA,449.275,-,,,,"Hurricane, Hurricane Mesa"
+347,K7OJU,449.275,-,5,88.5,,"Salt Lake City,  Ensign Peak"
+348,W7BOZ,449.3,-,5,103.5,,Logan
+349,WB7REL,449.3,-,5,88.5,,"Salina, Beesting Peak"
+350,N7RRZ,449.325,-,5,156.7,,Logan
+351,N7UEO,449.325,-,5,114.8,,Pleasant Grove
+352,NR7K,449.325,-,,,,St George
+353,W7CWK,449.35,-,5,123,,Bountiful
+354,K7OET,449.35,-,,,,"St George, Utah Hill"
+355,W7EO,449.35,-,5,100,,"Tooele,  South Mountain"
+356,K7JL,449.4,-,5,100,,"Salt Lake City, Ensign Peak"
+357,WA7GIE,449.425,-,5,100,,"Salt Lake City, Nelson Peak"
+358,KA7STK,449.425,-,5,203.5,,St George
+359,WA7GIE,449.475,-,5,100,,"Provo, Lake Mountain"
+360,WA7GTU,449.5,-,5,100,,"Cedar City, Iron Mountain"
+361,K7JL,449.5,-,5,100,,"Salt Lake City,  Farnsworth Peak"
+362,K7JL,449.525,-,5,131.8,,"Brighton, Scott's Peak"
+363,KA7STK,449.525,-,5,100,,"St George,  Winchester Hills"
+364,WA7GIE,449.55,-,5,100,,"Coalville,  Lewis Peak"
+365,WA7GIE,449.55,-,5,123,,"Wendover, Wendover Peak"
+368,AI7J,449.6,-,5,136.5,,"Layton,  Kaysville Peak"
+369,AC7O,449.625,-,5,103.5,,"Logan, Mt Logan"
+370,AC7II,449.65,-,,,,"Logan, Mt Pisgah"
+371,AC7II,449.65,-,5,167.9,,"Salt Lake City, Mt Pisgah"
+372,K7UCS,449.675,-,5,173.8,,"Provo, Lake Mountain"
+373,KO7R,449.7,-,5,127.3,,"Cedar Fort, Internet Mountain"
+374,K7OGM,449.7,-,5,100,,"Laketown, Bear Lake"
+375,W7BYU,449.7,-,5,136.5,,Vernal
+376,K7DOU,449.7,-,5,100,,"West Kaysville,  sewer plant"
+377,KD7YK,449.725,-,,,,"Enterprise,  Black Hills"
+378,WA7UAH,449.725,-,5,151.4,,"West Jordan, Butterfield Pk"
+379,N7YFZ,449.75,-,5,131.8,,Manti
+380,KA7OEI,449.75,-,5,151.4,,Salt Lake City
+381,W7AOR,449.75,-,5,123,,"St George,  Utah Hill"
+382,K8BKT,449.775,-,,,,Pleasant Grove
+383,N7TOP,449.775,-,5,123,,West Haven
+384,WA7KMF,449.8,-,5,103.5,,"Mantua,  Murrays Hill"
+386,KB7YOT,449.825,-,5,167.9,,Provo
+387,W7NRC,449.85,-,,,,Kanab
+388,WA7FFM,449.85,-,5,146.2,,"Provo, UVRMC"
+389,W7MVK,449.875,-,5,167.9,,"Layton,  Francis Peak"
+390,WA7GTU,449.9,-,5,100,,Cedar City
+391,KD7HLL,449.9,-,5,123,,Mexican Hat
+392,KD0J,449.9,-,5,100,,"Salt Lake City, Ensign Peak"
+393,W7BAR,449.9,-,5,136.5,,"Vernal, Uintah County EOC"
+394,K7DAV,449.925,-,5,100,,"Bountiful,  golf course"
+395,W7CWI,449.925,-,5,100,,"Page (AZ), Navajo Mountain"
+396,NJ7J,449.95,-,5,123,,"Clearfield,  civic center"
+397,N7ZOI,449.95,-,,,,Midway
+398,W7EO,449.95,-,5,100,,"Vernon,  Vernon Hills"
+399,K7UCS,449.975,-,5,131.8,,"Provo, Lake Mountain"
+420,UNI 1,122.7,,,,Air Traffic,UNICOM
+421,UNI 2,122.725,,,,Air Traffic,UNICOM
+422,UNIMED,122.8,,,,Air Traffic,"UNICOM, Medical/Media coms "
+423,UNI SL,122.95,,,,Air Traffic,UNICOM SLC
+424,UNI 5,122.975,,,,Air Traffic,UNICOM
+425,UNI 6,123,,,,Air Traffic,UNICOM
+426,UNI 8,123.075,,,,Air Traffic,UNICOM
+427,AIRMED,123.05,,,,Air Traffic,Helicopter Air Medical
+428,A2A SL,122.75,,,,Air Traffic,"Air to Air, SLC"
+429,A2A 1,123.45,,,,Air Traffic,Air to Air
+430,A2A 2,123.3,,,,Air Traffic,Air to Air
+431,A2A 3,123.5,,,,Air Traffic,Air to Air
+432,A2A 4,123.025,,,,Air Traffic,Air to Air
+433,A2A 5,123.75,,,,Air Traffic,Air to Air
+434,CIVGRD,121.5,,,,Air Traffic,Emergency - Civil Guard
+435,MILGRD,243,,,,Air Traffic,Emergency - Military Guard
+436,GRND E,121.9,,,,Air Traffic,SL Ground Control East of R/W 16L/34R 
+437,GRND W,123.775,,,,Air Traffic,SL Ground Control West of R/W 16L/34R 
+438,FINAL,125.7,,,,Air Traffic,SLC Final approach
+439,APP 1,121.1,,,,Air Traffic,SL APP/DEP <8K 
+440,APP 2M,120.9,,,,Air Traffic,"SL APP/DEP <8K, Medical/Media coms "
+441,APP 1,124.3,,,,Air Traffic,SL APP/DEP >8K 110-160 degrees
+442,APP 2,128.1,,,,Air Traffic,SL APP/DEP >8K 160-250 degrees
+443,APP 3,126.25,,,,Air Traffic,SL APP/DEP >8K 250-300 degrees
+444,APP 4,124.9,,,,Air Traffic,SL APP/DEP >8K 300-340 degrees
+445,APP 5,135.5,,,,Air Traffic,SL APP/DEP >8K 340-110 degrees
+446,CLEAR,127.3,,,,Air Traffic,Taxi / Clearance
+447,TOW16R,132.65,,,,Air Traffic,SLC Tower 16R
+448,TOW17,118.3,,,,Air Traffic,SLC Tower 17
+449,TOW16L,119.05,,,,Air Traffic,SLC Tower 16L
+450,SL WX,134.425,,,,Air Traffic,SLC Weather
+451,OG WX,125.5,,,,Air Traffic,Ogden Weather
+452,HILL G,121.6,,,,Air Traffic,Hill AFB Ground
+453,HILL T,127.15,,,,Air Traffic,Hill AFB Tower
+454,OG GND,121.7,,,,Air Traffic,Ogden Ground
+455,OG TW1,118.7,,,,Air Traffic,Ogden Tower 1
+456,OG TW2,125.55,,,,Air Traffic,Ogden Tower 2
+475,FRS 1,462.5625,,,,FRS,FRS Channel 1
+476,FRS 2,462.5875,,,,FRS,FRS Channel 2
+477,FRS 3,462.6125,,,,FRS,FRS Channel 3
+478,FRS 4,462.6375,,,,FRS,FRS Channel 4
+479,FRS 5,462.6625,,,,FRS,FRS Channel 5
+480,FRS 6,462.6875,,,,FRS,FRS Channel 6
+481,FRS 7,462.7125,,,,FRS,FRS Channel 7
+482,FRS 8,467.5625,,,,FRS,FRS Channel 8
+483,FRS 9,467.5875,,,,FRS,FRS Channel 9
+484,FRS 10,467.6125,,,,FRS,FRS Channel 10
+485,FRS 11,467.6375,,,,FRS,FRS Channel 11
+486,FRS 12,467.6625,,,,FRS,FRS Channel 12
+487,FRS 13,467.6875,,,,FRS,FRS Channel 13
+488,FRS 14,467.7125,,,,FRS,FRS Channel 14
+489,FRS 15,462.55,,,,FRS,FRS Channel 15 / GMRS 1
+490,FRS 16,462.575,,,,FRS,FRS Channel 16 / GMRS 2
+491,FRS 17,462.6,,,,FRS,FRS Channel 17 / GMRS 3
+492,FRS 18,462.625,,,,FRS,FRS Channel 18 / GMRS 4
+493,FRS 19,462.65,,,,FRS,FRS Channel 19 / GMRS 5
+494,FRS 20,462.675,,,,FRS,FRS Channel 20 / GMRS 6
+495,FRS 21,462.7,,,,FRS,FRS Channel 21 / GMRS 7
+496,FRS 22,462.725,,,,FRS,FRS Channel 22 / GMRS 8
+499,APRS,144.39,,,,,APRS frequency
+500,ISS_RX,145.8,,,,,ISS repeater
