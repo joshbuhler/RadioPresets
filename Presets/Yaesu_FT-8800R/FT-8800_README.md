@@ -79,3 +79,9 @@ Presets 475-496. FRS / GMRS channels.
 
 ### Bank 10
 Slots 70-79. NOAA weather radio stations.
+
+
+## Programming Notes / Troubleshooting
+
+### Unable to upload files?
+After the factory reset triggered by the MARS mod, the .img file wouldn't upload to the radio from Chirp. Needed to first download the current radio setup from the radio, then copy/paste the preset info from the older .img file. By modifying the new file, I was then able to upload the presets back to the radio.
