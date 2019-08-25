@@ -14,7 +14,7 @@ The mic for the FT-8800 has four large preset buttons that can be programmed. I 
 | ------ | -------- | ----------- |
 | 1 | `LOW` | Cycles through the different levels of power output.
 | 2 | `BAND` | Toggles the main band between the left and right side of the radio. |
-| 3 | `SCAN` | Begins scanning on the current main band. |
+| 3 | `SQL.OFF` | Opens the squelch on the main band. |
 | 4 | `PRI` | Activates priority scanning mode. |
 
 ## Hyper Memory Setup
@@ -29,7 +29,9 @@ Basically my favorites list for the Salt Lake area. The left side is monitoring 
 
 | Left | Right (Scanning) |
 | ------------- | ------------- |
-| 2M Calling: `146.52` | N7HRC: `449.25` |
+| 2M Calling: `146.52` | GTAA: `145.63` |
+|  | `146.46` |
+|  | N7HRC: `449.25` |
 |  | 70cm calling: `446.0` |
 |  | Farnsworth Peak repeater: `146.62` |
 |  | Lake Mountain: `146.76` |
@@ -47,6 +49,9 @@ This setting consists of:
 | GTAA: `145.63`  | Farnsworth: `146.62`  |
 |  | Lake Mountain: `146.76`  |
 |  | N7HRC: `449.25`  |
+|  | `AF CYN` preset |
+|  | Intertie, Farnsworth link |
+|  | Sinbad, Lake Mountain link |
 
 ### Hyper 4
 Left is 2M calling (`146.52`), right is scanning NOAA weather stations. Useful when camping and you want to quickly get a weather forecast.
